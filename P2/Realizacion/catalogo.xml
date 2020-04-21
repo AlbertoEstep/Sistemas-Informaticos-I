@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+	<pelicula id = '1'>
+		<titulo>2001: A Space Odyssey</titulo>
+		<poster>imagenes/2001.jpg</poster>
+		<detalle_poster>imagenes/2001_grande.jpg</detalle_poster>
+		<director>Stanley Kubrick</director>
+		<precio>18.99</precio>
+		<categoria>Science Fiction</categoria>
+		<anno>1968</anno>
+
+		<descripcion>
+			The science-fiction film par excellence of the history of cinema tells the various periods in the history of humanity, not only the past, but also the future. Millions of years ago, before the appearance of "homo sapiens", primates discover a monolith that leads them to a stage of superior intelligence. Millions of years later, another monolith, buried in a moon, arouses the interest of scientists. Finally, during a NASA mission, HAL 9000, a machine equipped with artificial intelligence, is in charge of controlling all the systems of a manned spacecraft.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '2'>
+		<titulo>Mad Max</titulo>
+		<poster>imagenes/mad_max.jpg</poster>
+		<detalle_poster>imagenes/mad_grande.jpg</detalle_poster>
+		<director>George Miller</director>
+		<precio>16.66</precio>
+		<categoria>Action</categoria>
+		<anno>1979</anno>
+
+		<descripcion>
+			The film presents a tale of societal collapse, murder, and vengeance set in a future Australia, in which a vengeful policeman becomes embroiled in a feud with a vicious motorcycle gang. Principal photography took place in and around Melbourne, Australia, and lasted six weeks.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '3'>
+		<titulo>Blade Runner</titulo>
+		<poster>imagenes/blade_runner.jpg</poster>
+		<detalle_poster>imagenes/blade_grande.jpg</detalle_poster>
+		<director>Ridley Scott</director>
+		<precio>20.99</precio>
+		<categoria>Science Fiction</categoria>
+		<anno>1982</anno>
+
+		<descripcion>
+			Set in a dystopian Los Angeles in 2019, the story depicts a future in which synthetic humans known as replicants are bioengineered by the powerful Tyrell Corporation to work on off-world colonies. When a fugitive group of replicants led by Roy Batty (Hauer) escape back to Earth, burnt-out Los Angeles cop Rick Deckard (Ford) reluctantly accepts one last assignment to hunt them down. During his investigations, Deckard meets Rachael (Young), an advanced replicant who causes him to question his mission.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '4'>
+		<titulo>Metropolis</titulo>
+		<poster>imagenes/metropolis.jpg</poster>
+		<detalle_poster>imagenes/metropolis_grande.jpg</detalle_poster>
+		<director>Fritz Lang</director>
+		<precio>7.20</precio>
+		<categoria>Science Fiction</categoria>
+		<anno>1927</anno>
+
+		<descripcion>
+			Sometime in the future, the city of Metropolis is home to a Utopian society where its wealthy residents live a carefree life. One of those is Freder Fredersen. One day, he spots a beautiful woman with a group of children, she and the children quickly disappear. Trying to follow her, he is horrified to find an underground world of workers who apparently run the machinery that keeps the Utopian world above ground functioning. One of the few people above ground who knows about the world below is Freder's father, John Fredersen, who is the founder and master of Metropolis. Freder learns that the woman is called Maria, who espouses the need to join the "hands" - the workers - to the "head" - those in power above - by a mediator who will act as the "heart". Freder wants to help the plight of the workers in their struggle for a better life. But when John learns of what Maria is advocating and that Freder has joined their cause, with the assistance of an old colleague. an inventor called Rotwang, who turns out to be But their nemesis goes to works towards quashing a proposed uprising, with Maria at the centre of their plan. John, unaware that Rotwang has his own agenda., makes plans that include shutting down the machines, with the prospect of unleashing total anarchy both above and below ground.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '5'>
+		<titulo>The Fly</titulo>
+		<poster>imagenes/the_fly.jpg</poster>
+		<detalle_poster>imagenes/the_fly_grande.jpg</detalle_poster>
+		<director>David Cronenberg</director>
+		<precio>6.66</precio>
+		<categoria>Horror</categoria>
+		<anno>1986</anno>
+
+		<descripcion>
+			Seth Brundle (Jeff Goldblum), a brilliant but eccentric scientist attempts to woo investigative journalist Veronica Quaife (Geena Davis) by offering her a scoop on his latest research in the field of matter transportation, which against all the expectations of the scientific establishment have proved successful. Up to a point. Brundle thinks he has ironed out the last problem when he successfully transports a living creature, but when he attempts to teleport himself a fly enters one of the transmission booths, and Brundle finds he is a changed man. This Science-Gone-Mad film is the source of the quotable quote "Be afraid. Be very afraid."
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '6'>
+		<titulo>The Rocky Horror Picture Show</titulo>
+		<poster>imagenes/the_rocky_horror_picture_show.jpg</poster>
+		<detalle_poster>imagenes/the_rocky_horror_picture_show_grande.jpg</detalle_poster>
+		<director>Jim Sharman</director>
+		<precio>12.99</precio>
+		<categoria>Horror</categoria>
+		<anno>1975</anno>
+
+		<descripcion>
+			When a couple returns from a friend's wedding, a violent storm breaks out and the car breaks down. Thus, things have no choice but to take refuge in a castle, where Dr. Frank-N-Furter lives dedicated to the manufacture of a kind of Frankenstein.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '7'>
+		<titulo>Con destino a la Luna</titulo>
+		<poster>imagenes/con_destino_a_la_luna.jpg</poster>
+		<detalle_poster>imagenes/con_destino_a_la_luna_grande.jpg</detalle_poster>
+		<director>Irving Pichel</director>
+		<precio>17.99</precio>
+		<categoria>Science Fiction</categoria>
+		<anno>1950</anno>
+
+		<descripcion>
+			The entrepreneur Archer, retired General Powers and the aerospace researcher Anderson collaborate in the putting in orbit of a rocket propelled with atomic energy. They build the spacecraft "Luna" in a secret base in the Mojave desert, but agents of a foreign power try to sabotage them. When he comes to the mission, he decides to get ahead of his enemies and take off for the moon ...
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '8'>
+		<titulo>Un amigo para Frank</titulo>
+		<poster>imagenes/un_amigo_para_frank.jpg</poster>
+		<detalle_poster>imagenes/un_amigo_para_frank_grande.jpg</detalle_poster>
+		<director>Jake Schreier</director>
+		<precio>20.99</precio>
+		<categoria>Science Fiction</categoria>
+		<anno>2012</anno>
+
+		<descripcion>
+			In the not too distant future, the integration of robots in human life will make possible the emergence of programmed androids to care for elderly people. That is the solution found by Hunter and Madison for their elderly father Frank, whose memory losses are becoming more frequent.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '9'>
+		<titulo>Telefono rojo volamos hacia Moscu</titulo>
+		<poster>imagenes/telefono_rojo_volamos_hacia_moscu.jpg</poster>
+		<detalle_poster>imagenes/telefono_rojo_volamos_hacia_moscu_grande.jpg</detalle_poster>
+		<director>Stanley Kubrick</director>
+		<precio>10.99</precio>
+		<categoria>Comedy</categoria>
+		<anno>1964</anno>
+
+		<descripcion>
+			Convinced that the Communists are polluting the United States, a general orders, in a fit of madness, a surprise nuclear air strike against the Soviet Union. His assistant, Captain Mandrake, tries to find the formula to prevent the bombing. For his part, the President of the USA he gets in touch with Moscow to convince the Soviet government that the attack is just a stupid mistake. Meanwhile, the President's adviser, a former Nazi scientist, Dr. Strangelove, confirms the existence of the "Final Judgment Machine", a Soviet retaliation device capable of ending humanity forever.
+		</descripcion>
+	</pelicula>
+
+	<pelicula id = '10'>
+		<titulo> Forbidden Planet </titulo>
+		<poster>imagenes/planeta_prohibido.jpg</poster>
+		<detalle_poster>imagenes/planeta_prohibido_grande.jpg</detalle_poster>
+		<director>Fred M. Wilcox</director>
+		<precio>15.99</precio>
+		<categoria>Science Fiction</categoria>
+		<anno>1956</anno>
+
+		<descripcion>
+			Inspired by "The Tempest" by William Shakespeare. An expedition of astronauts arrives at a planet governed by an expatriate.
+		</descripcion>
+	</pelicula>
+
+</catalogo>
